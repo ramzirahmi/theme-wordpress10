@@ -1,0 +1,28 @@
+@media screen and(max-width: 991px){
+	#instrocteur .container{
+		background:rgba(255,255,255,0.8);
+		padding:20px
+	}
+}
+@media screen and(max-width: 768px){
+	.logo{
+		width: 50%;
+	}
+	#optin{
+		margin: 0 0 10px
+	}
+	#featurette iframe
+	{
+		
+		height:240px;
+	}
+}
+@media screen and(max-width:568px){
+	#featurette" iframe{
+		width:100px;
+		height:100px;
+	}
+	#kudos p{
+		font-size:12px;
+	}
+}
